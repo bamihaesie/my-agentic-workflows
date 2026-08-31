@@ -10,8 +10,7 @@ permissions:
   contents: read
   issues: read
 
-engine: copilot
-model: gpt-5-mini
+engine: gemini
 network: defaults
 
 safe-outputs:
